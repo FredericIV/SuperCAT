@@ -2,6 +2,7 @@
 This is a README file to provide instructions on how to operate the SuperCat tool.
 This tool currently supports Windows 7 and Window 10
 
+**NOTICE** Developement of this software has moved to https://web.git.mil
 
 [![Pester](https://github.com/lordneeko/SuperCAT/actions/workflows/PesterTest.yml/badge.svg)](https://github.com/lordneeko/SuperCAT/actions/workflows/PesterTest.yml)
 [![PSScriptAnalyzer](https://github.com/SuperCATDevelopers/SuperCAT/actions/workflows/PSScriptAnalyzer.yml/badge.svg?branch=main)](https://github.com/SuperCATDevelopers/SuperCAT/actions/workflows/PSScriptAnalyzer.yml)
